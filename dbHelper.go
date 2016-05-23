@@ -1,4 +1,4 @@
-package ginGorp
+package goApi
 
 import ("gopkg.in/gorp.v1")
 
